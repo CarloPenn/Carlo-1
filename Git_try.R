@@ -7,3 +7,4 @@ library(usethis)
 gh_token_help()
 create_github_token()
 GITHUB_PAT = "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"
+# something really special happened here
